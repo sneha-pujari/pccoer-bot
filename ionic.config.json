@@ -1,0 +1,8 @@
+{
+  "name": "PCCOER-Bot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "a592f60f"
+}
